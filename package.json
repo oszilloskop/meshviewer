@@ -46,11 +46,14 @@
     }
   },
   "dependencies": {
+    "acorn": "^7.1.1",
     "almond": "^0.3.3",
-    "d3-drag": "^1.2.4",
+    "audit": "0.0.6",
+    "d3-drag": "^1.2.5",
     "d3-force": "^1.2.1",
-    "d3-selection": "^1.4.0",
+    "d3-selection": "^1.4.1",
     "d3-zoom": "^1.8.3",
+    "gulp-ci": "0.0.0",
     "leaflet": "^1.5.1",
     "moment": "^2.24.0",
     "navigo": "^7.1.2",
