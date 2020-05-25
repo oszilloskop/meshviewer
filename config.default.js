@@ -22,10 +22,10 @@ module.exports = function () {
         'name': 'node.coordinates',
         'value': 'GeoURI'
       },
-      {
-         "name": "node.contact",
-         "value": "owner"
-      },
+//      {
+//         "name": "node.contact",
+//         "value": "owner"
+//      },
 
       // Examples for functions
       // {
@@ -167,7 +167,7 @@ module.exports = function () {
     'forceGraph': {
       'nodeColor': '#f2e3c6',
       'nodeOfflineColor': '#D43E2A',
-      'nodeUplinkColor': '#6595bd',     
+      'nodeUplinkColor': '#6595bd',
       'highlightColor': 'rgba(255, 255, 255, 0.2)',
       'labelColor': '#fff',
       'tqFrom': '#770038',
