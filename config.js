@@ -347,6 +347,23 @@ module.exports = function () {
          {domain:"ffffm_63571",name:"63571 Gelnhausen"},
          {domain:"ffffm_65824",name:"65824 Schwalbach am Taunus"},
          {domain:"ffffm_61479",name:"61479 Glashütten"} ],
+    'allowedDomains': [
+      'global',
+      'dom64584',
+      'dom65474',
+      'dom64572',
+      'dom64579',
+      'dom65462',
+      'dom64521',
+      'dom65451',
+      'dom64546',
+      'dom64569',
+      'dom65479',
+      'dom64560',
+      'dom65428',
+      'dom64589',
+      'dom65468'
+    ],
     'linkList': [
       {
         'title': 'Frankfurter-Webseite',
