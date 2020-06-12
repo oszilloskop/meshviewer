@@ -44,10 +44,6 @@ module.exports = function () {
     // Array of data provider are supported
     'dataPath': [
 //    "https://map.freifunk-kitzingen.de/data/"
-//       "https://yanic.batman15.ffffm.net/"
-//    'https://yanic.ffm.freifunk.net/',
-//    'http://localhost/data/',
-//    'https://test.blauerbecher.de/',
     '/data/',
     ],
     'siteName': 'Freifunk Groß-Gerau',
@@ -59,7 +55,6 @@ module.exports = function () {
 //        "url": "/tiles-cache/{z}/{x}/{y}.png",
           "url": "https://tile.openstreetmap.de/{z}/{x}/{y}.png",
 //        "url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
-//        "url": "https://tiles.ffm.freifunk.net/{z}/{x}/{y}.png",
         "config": {
           "type": "osm",
           "maxZoom": 19,
@@ -136,11 +131,11 @@ module.exports = function () {
         'href': 'https://www.freifunk-gg.de/',
         'target': '_blank'
       },
-//      {
-//        'title': 'Grafana (FFKT)',
-//        'href': 'https://stats.freifunk-kitzingen.de/d/000000001/globals?orgId=1&refresh=5m&from=now-7d&to=now-1m',
-//        'target': '_blank'
-//      },
+      {
+        'title': 'Firmware',
+        'href': 'https://gg.indie-freifunk.net/firmware-wizard/',
+        'target': '_blank'
+      },
     ]
   };
 };
