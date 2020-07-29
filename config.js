@@ -4,40 +4,40 @@ module.exports = function () {
     "nodeInfos": [
       {
         "name": "",
-        "href": "https://freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
-        "image": "https://freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=7&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
+        "href": "https://grafana-lab.freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
+        "image": "https://grafana-lab.freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=7&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
         "title": "Knoten {NODE_ID} ({NODE_NAME})"
       },
       {
         "name": "",
-        "href": "https://freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
-        "image": "https://freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=1&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=190&theme=light&_t={TIME}",
+        "href": "https://grafana-lab.freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
+        "image": "https://grafana-lab.freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=1&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=190&theme=light&_t={TIME}",
         "title": "Knoten {NODE_ID} ({NODE_NAME})"
       },
       {
         "name": "",
-        "href": "https://freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
-        "image": "https://freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=5&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
+        "href": "https://grafana-lab.freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
+        "image": "https://grafana-lab.freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=5&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
         "title": "Knoten {NODE_ID} ({NODE_NAME})"
       },
       {
         "name": "",
-        "href": "https://freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
-        "image": "https://freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=2&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
+        "href": "https://grafana-lab.freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
+        "image": "https://grafana-lab.freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=2&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
         "title": "Knoten {NODE_ID} ({NODE_NAME})"
       },
       {
         "name": "",
-        "href": "https://freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
-        "image": "https://freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=4&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
+        "href": "https://grafana-lab.freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
+        "image": "https://grafana-lab.freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=4&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
         "title": "Knoten {NODE_ID} ({NODE_NAME})"
       }
     ],
     "globalInfos": [
       {
         "name": "Wochenstatistik",
-        "href": "https://freifunk.fail/dashboard/db/deck?from=now-7d&to=now",
-        "image": "https://freifunk.fail/render/dashboard-solo/db/deck?&panelId=22&from=now-7d&to=now&width=500&height=300&theme=light&_t={TIME}",
+        "href": "https://grafana-lab.freifunk.fail/dashboard/db/deck?from=now-7d&to=now",
+        "image": "https://grafana-lab.freifunk.fail/render/dashboard-solo/db/deck?&panelId=22&from=now-7d&to=now&width=500&height=300&theme=light&_t={TIME}",
         "title": "Bild der Wochenstatistik"
       }
     ],
@@ -355,7 +355,7 @@ module.exports = function () {
       },
       {
         'title': 'Grafana',
-        'href': 'https://freifunk.fail/d/000000001/deck?orgId=1&refresh=5m&from=now-30d&to=now',
+        'href': 'https://grafana-lab.freifunk.fail/d/000000001/deck?orgId=1&refresh=5m&from=now-30d&to=now',
         'target': '_blank'
       },
     ]
