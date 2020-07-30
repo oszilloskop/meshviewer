@@ -67,12 +67,14 @@ module.exports = function () {
     'fixedCenter': [
       // Northwest
       [
-        50.098971785,
-        8.134659396
+        49.727022697,
+        8.281692335
+
       ],
+      // South-East
       [
-        49.724780638,
-        8.715530075
+        50.086214507,
+        8.610630148
       ]
     ],
     'allowedDomains': [
