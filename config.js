@@ -4,31 +4,31 @@ module.exports = function () {
     "nodeInfos": [
       {
         "name": "",
-        "href": "https://grafana-lab.freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
+        "href": "https://grafana-lab.freifunk.fail/d/000000003/node-details-for-map?var-id={NODE_ID}&from=now-7d&to=now",
         "image": "https://grafana-lab.freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=7&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
         "title": "Knoten {NODE_ID} ({NODE_NAME})"
       },
       {
         "name": "",
-        "href": "https://grafana-lab.freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
+        "href": "https://grafana-lab.freifunk.fail/d/000000003/node-details-for-map?var-id={NODE_ID}&from=now-7d&to=now",
         "image": "https://grafana-lab.freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=1&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=190&theme=light&_t={TIME}",
         "title": "Knoten {NODE_ID} ({NODE_NAME})"
       },
       {
         "name": "",
-        "href": "https://grafana-lab.freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
+        "href": "https://grafana-lab.freifunk.fail/d/000000003/node-details-for-map?var-id={NODE_ID}&from=now-7d&to=now",
         "image": "https://grafana-lab.freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=5&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
         "title": "Knoten {NODE_ID} ({NODE_NAME})"
       },
       {
         "name": "",
-        "href": "https://grafana-lab.freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
+        "href": "https://grafana-lab.freifunk.fail/d/000000003/node-details-for-map?var-id={NODE_ID}&from=now-7d&to=now",
         "image": "https://grafana-lab.freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=2&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
         "title": "Knoten {NODE_ID} ({NODE_NAME})"
       },
       {
         "name": "",
-        "href": "https://grafana-lab.freifunk.fail/dashboard/db/nodes?var-name={NODE_NAME}&from=now-7d&to=now",
+        "href": "https://grafana-lab.freifunk.fail/d/000000003/node-details-for-map?var-id={NODE_ID}&from=now-7d&to=now",
         "image": "https://grafana-lab.freifunk.fail/render/dashboard-solo/db/node-details-for-map?panelId=4&var-id={NODE_ID}&from=now-7d&to=now&width=500&height=160&theme=light&_t={TIME}",
         "title": "Knoten {NODE_ID} ({NODE_NAME})"
       }
